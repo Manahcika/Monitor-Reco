@@ -1,8 +1,8 @@
-# 🚀 Monitor Recommendation - Quick Setup Guide
+# Monitor Recommendation - Quick Setup Guide
 
 Tutorial singkat untuk menjalankan website Monitor Recommendation di XAMPP.
 
-## 📋 Yang Dibutuhkan
+## Yang Dibutuhkan
 - XAMPP (Apache + MySQL + PHP)
 - Web Browser
 
@@ -39,7 +39,7 @@ Tutorial singkat untuk menjalankan website Monitor Recommendation di XAMPP.
   - Username: `admin`
   - Password: `admin123`
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 **Apache tidak start:**
 - Ubah port di config dari 80 ke 8080
@@ -59,7 +59,7 @@ Tutorial singkat untuk menjalankan website Monitor Recommendation di XAMPP.
 - Check browser console (F12)
 - Pastikan file `get_monitor_detail.php` ada
 
-## ✅ Checklist
+## Checklist
 - [ ] XAMPP Apache & MySQL running (hijau)
 - [ ] Database `monitors_reco` imported
 - [ ] File di `htdocs/monitors_reco/`
@@ -71,7 +71,7 @@ Tutorial singkat untuk menjalankan website Monitor Recommendation di XAMPP.
 
 ---
 
-## 🎯 Fitur Utama
+## Fitur Utama
 - **Filter SDR/HDR** - Monitor dikategorikan otomatis
 - **Side Peek Modal** - Detail monitor tanpa reload
 - **Tier System** - Budget, Mid-Range, High-End, Premium  
