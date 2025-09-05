@@ -39,26 +39,6 @@ Tutorial singkat untuk menjalankan website Monitor Recommendation di XAMPP.
   - Username: `admin`
   - Password: `admin123`
 
-## Troubleshooting
-
-**Apache tidak start:**
-- Ubah port di config dari 80 ke 8080
-- Akses: http://localhost:8080/monitors_reco/
-
-**Database error:**
-- Pastikan MySQL running
-- Cek `config/database.php`:
-  ```php
-  define('DB_HOST', 'localhost');
-  define('DB_USER', 'root');
-  define('DB_PASS', '');
-  define('DB_NAME', 'monitors_reco');
-  ```
-
-**Modal tidak muncul:**
-- Check browser console (F12)
-- Pastikan file `get_monitor_detail.php` ada
-
 ## Checklist
 - [ ] XAMPP Apache & MySQL running (hijau)
 - [ ] Database `monitors_reco` imported
