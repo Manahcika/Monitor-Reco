@@ -47,7 +47,7 @@ Tutorial singkat untuk menjalankan website Monitor Recommendation di XAMPP.
 - [ ] Admin panel login berhasil
 - [ ] Klik monitor → side modal muncul
 
-**Done! Website siap digunakan! 🎉**
+**Done! Website siap digunakan!**
 
 ---
 
