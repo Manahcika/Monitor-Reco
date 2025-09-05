@@ -6,7 +6,7 @@ Tutorial singkat untuk menjalankan website Monitor Recommendation di XAMPP.
 - XAMPP (Apache + MySQL + PHP)
 - Web Browser
 
-## ⚡ Quick Setup
+## Quick Setup
 
 ### 1. Download & Install XAMPP
 1. Download dari: https://www.apachefriends.org/
